@@ -3,21 +3,21 @@ repository: sproogen/resume-theme
 # favicon: images/favicon.ico
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Maxwell Martins Dalboni
+title: Senior Software Developer
+email: dalboni.max@hotmail.com
+website: www.github.com/mdalboni
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: maxdalboni
+github_username:  mdalboni
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
-linkedin_username: jameswgrant
+instagram_username: maxdalboni
+linkedin_username: maxwell-dalboni-598670103
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
